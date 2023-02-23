@@ -1,0 +1,3 @@
+[submodule "submodules/repl"]
+	path = submodules/repl
+	url = https://github.com/soylang-org/soy-repl.git
